@@ -3,7 +3,7 @@ Portfolio of my work and projects for CEP146-NAA
 
 # My Course Portfolio
  
-Welcome to my academic portfolio for (put your course name and section here)!
+Welcome to my academic portfolio for CEP146-NAA!
  
 ## About Me
 - Name: Alejandro Miguel Valdez
